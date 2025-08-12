@@ -1,2 +1,2 @@
-# blockchain-learning-journey
-"my journey into blockchain development-learning day by day"
+Day 1 – Started my blockchain learning journey.
+Added Day 1 learning note
